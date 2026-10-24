@@ -1,0 +1,1 @@
+SaveLynk engine beta update: 120-second metadata caching, concurrent image gallery downloads (4), preparation timing logs, clearer Reddit authentication errors. UI unchanged. Reddit login restrictions remain. Live downloads not verified. Keep your old backup. Do not publicly deploy without security hardening.
